@@ -1,0 +1,14 @@
+/home/lrdtms/Documents/Excercises/negativeArray/bin/Debug/net9.0/negativeArray
+/home/lrdtms/Documents/Excercises/negativeArray/bin/Debug/net9.0/negativeArray.deps.json
+/home/lrdtms/Documents/Excercises/negativeArray/bin/Debug/net9.0/negativeArray.runtimeconfig.json
+/home/lrdtms/Documents/Excercises/negativeArray/bin/Debug/net9.0/negativeArray.dll
+/home/lrdtms/Documents/Excercises/negativeArray/bin/Debug/net9.0/negativeArray.pdb
+/home/lrdtms/Documents/Excercises/negativeArray/obj/Debug/net9.0/negativeArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/lrdtms/Documents/Excercises/negativeArray/obj/Debug/net9.0/negativeArray.AssemblyInfoInputs.cache
+/home/lrdtms/Documents/Excercises/negativeArray/obj/Debug/net9.0/negativeArray.AssemblyInfo.cs
+/home/lrdtms/Documents/Excercises/negativeArray/obj/Debug/net9.0/negativeArray.csproj.CoreCompileInputs.cache
+/home/lrdtms/Documents/Excercises/negativeArray/obj/Debug/net9.0/negativeArray.dll
+/home/lrdtms/Documents/Excercises/negativeArray/obj/Debug/net9.0/refint/negativeArray.dll
+/home/lrdtms/Documents/Excercises/negativeArray/obj/Debug/net9.0/negativeArray.pdb
+/home/lrdtms/Documents/Excercises/negativeArray/obj/Debug/net9.0/negativeArray.genruntimeconfig.cache
+/home/lrdtms/Documents/Excercises/negativeArray/obj/Debug/net9.0/ref/negativeArray.dll

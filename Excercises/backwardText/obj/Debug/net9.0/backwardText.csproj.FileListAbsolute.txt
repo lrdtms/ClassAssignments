@@ -1,0 +1,14 @@
+/home/lrdtms/Documents/Excercises/backwardText/bin/Debug/net9.0/backwardText
+/home/lrdtms/Documents/Excercises/backwardText/bin/Debug/net9.0/backwardText.deps.json
+/home/lrdtms/Documents/Excercises/backwardText/bin/Debug/net9.0/backwardText.runtimeconfig.json
+/home/lrdtms/Documents/Excercises/backwardText/bin/Debug/net9.0/backwardText.dll
+/home/lrdtms/Documents/Excercises/backwardText/bin/Debug/net9.0/backwardText.pdb
+/home/lrdtms/Documents/Excercises/backwardText/obj/Debug/net9.0/backwardText.GeneratedMSBuildEditorConfig.editorconfig
+/home/lrdtms/Documents/Excercises/backwardText/obj/Debug/net9.0/backwardText.AssemblyInfoInputs.cache
+/home/lrdtms/Documents/Excercises/backwardText/obj/Debug/net9.0/backwardText.AssemblyInfo.cs
+/home/lrdtms/Documents/Excercises/backwardText/obj/Debug/net9.0/backwardText.csproj.CoreCompileInputs.cache
+/home/lrdtms/Documents/Excercises/backwardText/obj/Debug/net9.0/backwardText.dll
+/home/lrdtms/Documents/Excercises/backwardText/obj/Debug/net9.0/refint/backwardText.dll
+/home/lrdtms/Documents/Excercises/backwardText/obj/Debug/net9.0/backwardText.pdb
+/home/lrdtms/Documents/Excercises/backwardText/obj/Debug/net9.0/backwardText.genruntimeconfig.cache
+/home/lrdtms/Documents/Excercises/backwardText/obj/Debug/net9.0/ref/backwardText.dll

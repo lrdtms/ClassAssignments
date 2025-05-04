@@ -1,0 +1,14 @@
+/home/lrdtms/Documents/Excercises/palindrone/bin/Debug/net9.0/palindrone
+/home/lrdtms/Documents/Excercises/palindrone/bin/Debug/net9.0/palindrone.deps.json
+/home/lrdtms/Documents/Excercises/palindrone/bin/Debug/net9.0/palindrone.runtimeconfig.json
+/home/lrdtms/Documents/Excercises/palindrone/bin/Debug/net9.0/palindrone.dll
+/home/lrdtms/Documents/Excercises/palindrone/bin/Debug/net9.0/palindrone.pdb
+/home/lrdtms/Documents/Excercises/palindrone/obj/Debug/net9.0/palindrone.GeneratedMSBuildEditorConfig.editorconfig
+/home/lrdtms/Documents/Excercises/palindrone/obj/Debug/net9.0/palindrone.AssemblyInfoInputs.cache
+/home/lrdtms/Documents/Excercises/palindrone/obj/Debug/net9.0/palindrone.AssemblyInfo.cs
+/home/lrdtms/Documents/Excercises/palindrone/obj/Debug/net9.0/palindrone.csproj.CoreCompileInputs.cache
+/home/lrdtms/Documents/Excercises/palindrone/obj/Debug/net9.0/palindrone.dll
+/home/lrdtms/Documents/Excercises/palindrone/obj/Debug/net9.0/refint/palindrone.dll
+/home/lrdtms/Documents/Excercises/palindrone/obj/Debug/net9.0/palindrone.pdb
+/home/lrdtms/Documents/Excercises/palindrone/obj/Debug/net9.0/palindrone.genruntimeconfig.cache
+/home/lrdtms/Documents/Excercises/palindrone/obj/Debug/net9.0/ref/palindrone.dll

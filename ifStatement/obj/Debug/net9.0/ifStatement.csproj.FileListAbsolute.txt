@@ -1,0 +1,14 @@
+/home/lrdtms/Documents/ifStatement/bin/Debug/net9.0/ifStatement
+/home/lrdtms/Documents/ifStatement/bin/Debug/net9.0/ifStatement.deps.json
+/home/lrdtms/Documents/ifStatement/bin/Debug/net9.0/ifStatement.runtimeconfig.json
+/home/lrdtms/Documents/ifStatement/bin/Debug/net9.0/ifStatement.dll
+/home/lrdtms/Documents/ifStatement/bin/Debug/net9.0/ifStatement.pdb
+/home/lrdtms/Documents/ifStatement/obj/Debug/net9.0/ifStatement.GeneratedMSBuildEditorConfig.editorconfig
+/home/lrdtms/Documents/ifStatement/obj/Debug/net9.0/ifStatement.AssemblyInfoInputs.cache
+/home/lrdtms/Documents/ifStatement/obj/Debug/net9.0/ifStatement.AssemblyInfo.cs
+/home/lrdtms/Documents/ifStatement/obj/Debug/net9.0/ifStatement.csproj.CoreCompileInputs.cache
+/home/lrdtms/Documents/ifStatement/obj/Debug/net9.0/ifStatement.dll
+/home/lrdtms/Documents/ifStatement/obj/Debug/net9.0/refint/ifStatement.dll
+/home/lrdtms/Documents/ifStatement/obj/Debug/net9.0/ifStatement.pdb
+/home/lrdtms/Documents/ifStatement/obj/Debug/net9.0/ifStatement.genruntimeconfig.cache
+/home/lrdtms/Documents/ifStatement/obj/Debug/net9.0/ref/ifStatement.dll

@@ -1,0 +1,14 @@
+/home/lrdtms/Documents/defCalMeth/bin/Debug/net9.0/defCalMeth
+/home/lrdtms/Documents/defCalMeth/bin/Debug/net9.0/defCalMeth.deps.json
+/home/lrdtms/Documents/defCalMeth/bin/Debug/net9.0/defCalMeth.runtimeconfig.json
+/home/lrdtms/Documents/defCalMeth/bin/Debug/net9.0/defCalMeth.dll
+/home/lrdtms/Documents/defCalMeth/bin/Debug/net9.0/defCalMeth.pdb
+/home/lrdtms/Documents/defCalMeth/obj/Debug/net9.0/defCalMeth.GeneratedMSBuildEditorConfig.editorconfig
+/home/lrdtms/Documents/defCalMeth/obj/Debug/net9.0/defCalMeth.AssemblyInfoInputs.cache
+/home/lrdtms/Documents/defCalMeth/obj/Debug/net9.0/defCalMeth.AssemblyInfo.cs
+/home/lrdtms/Documents/defCalMeth/obj/Debug/net9.0/defCalMeth.csproj.CoreCompileInputs.cache
+/home/lrdtms/Documents/defCalMeth/obj/Debug/net9.0/defCalMeth.dll
+/home/lrdtms/Documents/defCalMeth/obj/Debug/net9.0/refint/defCalMeth.dll
+/home/lrdtms/Documents/defCalMeth/obj/Debug/net9.0/defCalMeth.pdb
+/home/lrdtms/Documents/defCalMeth/obj/Debug/net9.0/defCalMeth.genruntimeconfig.cache
+/home/lrdtms/Documents/defCalMeth/obj/Debug/net9.0/ref/defCalMeth.dll

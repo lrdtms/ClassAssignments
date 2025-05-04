@@ -1,0 +1,14 @@
+/home/lrdtms/Documents/Excercises/OddEven/bin/Debug/net9.0/OddEven
+/home/lrdtms/Documents/Excercises/OddEven/bin/Debug/net9.0/OddEven.deps.json
+/home/lrdtms/Documents/Excercises/OddEven/bin/Debug/net9.0/OddEven.runtimeconfig.json
+/home/lrdtms/Documents/Excercises/OddEven/bin/Debug/net9.0/OddEven.dll
+/home/lrdtms/Documents/Excercises/OddEven/bin/Debug/net9.0/OddEven.pdb
+/home/lrdtms/Documents/Excercises/OddEven/obj/Debug/net9.0/OddEven.GeneratedMSBuildEditorConfig.editorconfig
+/home/lrdtms/Documents/Excercises/OddEven/obj/Debug/net9.0/OddEven.AssemblyInfoInputs.cache
+/home/lrdtms/Documents/Excercises/OddEven/obj/Debug/net9.0/OddEven.AssemblyInfo.cs
+/home/lrdtms/Documents/Excercises/OddEven/obj/Debug/net9.0/OddEven.csproj.CoreCompileInputs.cache
+/home/lrdtms/Documents/Excercises/OddEven/obj/Debug/net9.0/OddEven.dll
+/home/lrdtms/Documents/Excercises/OddEven/obj/Debug/net9.0/refint/OddEven.dll
+/home/lrdtms/Documents/Excercises/OddEven/obj/Debug/net9.0/OddEven.pdb
+/home/lrdtms/Documents/Excercises/OddEven/obj/Debug/net9.0/OddEven.genruntimeconfig.cache
+/home/lrdtms/Documents/Excercises/OddEven/obj/Debug/net9.0/ref/OddEven.dll

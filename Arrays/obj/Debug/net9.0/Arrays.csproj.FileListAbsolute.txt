@@ -1,0 +1,14 @@
+/home/lrdtms/Documents/Arrays/bin/Debug/net9.0/Arrays
+/home/lrdtms/Documents/Arrays/bin/Debug/net9.0/Arrays.deps.json
+/home/lrdtms/Documents/Arrays/bin/Debug/net9.0/Arrays.runtimeconfig.json
+/home/lrdtms/Documents/Arrays/bin/Debug/net9.0/Arrays.dll
+/home/lrdtms/Documents/Arrays/bin/Debug/net9.0/Arrays.pdb
+/home/lrdtms/Documents/Arrays/obj/Debug/net9.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/lrdtms/Documents/Arrays/obj/Debug/net9.0/Arrays.AssemblyInfoInputs.cache
+/home/lrdtms/Documents/Arrays/obj/Debug/net9.0/Arrays.AssemblyInfo.cs
+/home/lrdtms/Documents/Arrays/obj/Debug/net9.0/Arrays.csproj.CoreCompileInputs.cache
+/home/lrdtms/Documents/Arrays/obj/Debug/net9.0/Arrays.dll
+/home/lrdtms/Documents/Arrays/obj/Debug/net9.0/refint/Arrays.dll
+/home/lrdtms/Documents/Arrays/obj/Debug/net9.0/Arrays.pdb
+/home/lrdtms/Documents/Arrays/obj/Debug/net9.0/Arrays.genruntimeconfig.cache
+/home/lrdtms/Documents/Arrays/obj/Debug/net9.0/ref/Arrays.dll

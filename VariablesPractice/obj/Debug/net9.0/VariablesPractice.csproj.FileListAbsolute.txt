@@ -1,0 +1,14 @@
+/home/lrdtms/Documents/VariablesPractice/obj/Debug/net9.0/VariablesPractice.GeneratedMSBuildEditorConfig.editorconfig
+/home/lrdtms/Documents/VariablesPractice/obj/Debug/net9.0/VariablesPractice.AssemblyInfoInputs.cache
+/home/lrdtms/Documents/VariablesPractice/obj/Debug/net9.0/VariablesPractice.AssemblyInfo.cs
+/home/lrdtms/Documents/VariablesPractice/obj/Debug/net9.0/VariablesPractice.csproj.CoreCompileInputs.cache
+/home/lrdtms/Documents/VariablesPractice/bin/Debug/net9.0/VariablesPractice
+/home/lrdtms/Documents/VariablesPractice/bin/Debug/net9.0/VariablesPractice.deps.json
+/home/lrdtms/Documents/VariablesPractice/bin/Debug/net9.0/VariablesPractice.runtimeconfig.json
+/home/lrdtms/Documents/VariablesPractice/bin/Debug/net9.0/VariablesPractice.dll
+/home/lrdtms/Documents/VariablesPractice/bin/Debug/net9.0/VariablesPractice.pdb
+/home/lrdtms/Documents/VariablesPractice/obj/Debug/net9.0/VariablesPractice.dll
+/home/lrdtms/Documents/VariablesPractice/obj/Debug/net9.0/refint/VariablesPractice.dll
+/home/lrdtms/Documents/VariablesPractice/obj/Debug/net9.0/VariablesPractice.pdb
+/home/lrdtms/Documents/VariablesPractice/obj/Debug/net9.0/VariablesPractice.genruntimeconfig.cache
+/home/lrdtms/Documents/VariablesPractice/obj/Debug/net9.0/ref/VariablesPractice.dll
